@@ -24,7 +24,7 @@ It is useful to install also OpenBlas.
 
 ```bash
 sudo pip install git+git://github.com/Theano/Theano.git
-sudo pip install keras
+sudo pip install keras==0.3.3
 ```
 
 We use numpy, scipy, matplotlib and pymongo in this project so it will be useful to have them installed.
