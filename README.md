@@ -40,7 +40,7 @@ cd StockPredictionRNN
 cd src/nyse-rnn
 mkdir symbols
 python nyse.py
-python main.py
+sudo -E python main.py
 ```
 
 To save data to mongodb one has to install it first [mongo install](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/)
